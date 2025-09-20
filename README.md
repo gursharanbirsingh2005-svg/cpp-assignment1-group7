@@ -3,6 +3,6 @@
 - Assignment Number: 1
 - Group Number: 7
 - Group Members:
-  - Gursharanbir SIngh
+  - Gursharanbir Singh
   - Arshpreet Singh
   - Arjun Singh
